@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CCEx3.dir/main.c.o CMakeFiles/CCEx3.dir/client.c.o CMakeFiles/CCEx3.dir/server.c.o  -o CCEx3 
